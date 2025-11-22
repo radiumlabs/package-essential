@@ -1,11 +1,11 @@
-# Package Essential
+# TypeScript Essential
 
-Package Essential - An Essential Template to get started with TypeScript based package with all the essentials included...
+TypeScript Essential - An Essential Template to get started with TypeScript with all the essentials included.
 
 ## Features
 
 - 💻 Language: [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript
-- 📦 Tsup: [Tsup](https://github.com/egoist/tsup) - The next generation frontend build tool
+- 📦 Tsdown: [Tsdown](https://tsdown.dev/) - The next generation TypeScript build tool
 - 📦 Vitest: [Vitest](https://vitest.dev/) - A blazing fast unit testing and mocking solution
 - 🧹 Linting and Formatting: [Biome.js](https://biomejs.dev/) - Fast and customizable linter and formatter
 - ⚙️ Build: Github Actions - Automated workflows for CI/CD
